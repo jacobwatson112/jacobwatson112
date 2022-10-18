@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacobwatson112
-- 👀 I’m interested in Java, Python,
+- 👀 I’m interested in Java, Python, React and C#
 - 🌱 I’m currently learning Computer Science at the University of Auckland
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 You can reach me by email
